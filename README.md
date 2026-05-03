@@ -5,8 +5,8 @@ Haiya Niraj Shah | haiyas@andrew.cmu.edu
 FILES IN THIS SUBMISSION
 ------------------------
 CODE 24788_RUL_Project.ipynb   - Main notebook, run top to bottom in Colab \
-report.tex      ( Inside Report_Latex_Overleaf_Zip_Submission.zip )          - LaTeX source for report (use with neurips_2023.sty) \
-neurips_2023.sty      ( Inside Report_Latex_Overleaf_Zip_Submission.zip )  - Style file for LaTeX \
+report.tex      ( Inside Report_Latex_Overleaf.zip )          - LaTeX source for report (use with neurips_2023.sty) \
+neurips_2023.sty      ( Inside Report_Latex_Overleaf.zip )  - Style file for LaTeX \
 cmapss_project.zip        - All model code (upload to Colab when notebook asks) 
 
 HOW TO RUN
