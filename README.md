@@ -7,7 +7,7 @@ FILES IN THIS SUBMISSION
 CODE 24788_RUL_Project.ipynb   - Main notebook, run top to bottom in Colab \
 report.tex      ( Inside Report_Latex_Overleaf_Zip.zip )          - LaTeX source for report (use with neurips_2023.sty) \
 neurips_2023.sty      ( Inside Report_Latex_Overleaf_Zip.zip )  - Style file for LaTeX \
-cmapss_project.zip        - All model code (upload to Colab when notebook asks) \
+cmapss_project.zip        - All model code (upload to Colab when notebook asks) 
 
 HOW TO RUN
 ----------
