@@ -4,14 +4,14 @@ Haiya Niraj Shah | haiyas@andrew.cmu.edu
 
 FILES IN THIS SUBMISSION
 ------------------------
-24788_RUL_Project.ipynb   - Main notebook, run top to bottom in Colab
-report.tex                - LaTeX source for report (use with neurips_2023.sty)
-neurips_2023.sty          - Style file for LaTeX
-cmapss_project.zip        - All model code (upload to Colab when notebook asks)
+CODE 24788_RUL_Project.ipynb   - Main notebook, run top to bottom in Colab \
+report.tex                - LaTeX source for report (use with neurips_2023.sty) \
+neurips_2023.sty          - Style file for LaTeX \
+cmapss_project.zip        - All model code (upload to Colab when notebook asks) \
 
 HOW TO RUN
 ----------
-1. Open 24788_RUL_Project.ipynb in Google Colab
+1. Open CODE 24788_RUL_Project.ipynb in Google Colab
 2. Set runtime to GPU (Runtime > Change runtime type > T4 GPU)
 3. Run cells top to bottom
 4. When cell asks to upload cmapss_project.zip, upload it
